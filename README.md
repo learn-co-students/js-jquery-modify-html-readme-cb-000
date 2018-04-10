@@ -10,7 +10,7 @@
 
 We're going to use jQuery to add some text to our HTML page.
 
-### Include jQuery Link
+### Include jQuery Lin 
 
 This lesson doesn't render as a lab, but there are files within this repository you'll need to code along. Click on the GitHub icon in Learn, and [fork and clone this repository into your IDE](http://help.learn.co/workflow-tips/github/how-to-manually-open-a-lab).
 
